@@ -10,3 +10,11 @@ The platform provides a clean, SaaS-style dashboard with red-and-blue themed UI,
 - **Smart Email Generator** – Create professional emails with structured prompts and editable outputs.  
 - **Meeting Notes Summarizer** – Condense transcripts into key takeaways, decisions, and action items.  
 - **AI Task Planner** – Convert natural language into structured tasks with deadlines
+npm install
+REACT_APP_API_KEY=your_api_key_here
+npm start
+npm start
+
+---
+
+Would you like me to also create a **starter React + Tailwind template** that matches this README (with the red-and-blue SaaS dashboard layout), so you can drop it straight into your repo and run it?
