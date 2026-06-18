@@ -83,6 +83,10 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:description", content: "Draft emails, summarize meetings, plan tasks, and research smarter with Nimbus AI." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
+      { name: "twitter:title", content: "Nimbus — AI Workplace Productivity Assistant" },
+      { name: "twitter:description", content: "Draft emails, summarize meetings, plan tasks, and research smarter with Nimbus AI." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/5f7bd427-f3f5-434a-8fd8-ac568f97c397/id-preview-9886f465--7ae5bb71-0379-48b8-8df6-bf9657e2a74c.lovable.app-1781789642183.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/5f7bd427-f3f5-434a-8fd8-ac568f97c397/id-preview-9886f465--7ae5bb71-0379-48b8-8df6-bf9657e2a74c.lovable.app-1781789642183.png" },
     ],
     links: [
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
